@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaaatya&label=Profile%20views&color=0e75b6&style=flat" alt="asmaaatya" /> </p>
 
-- 🌱 I’m currently learning **android (networking & Data storage)**
+- 🌱 I’m currently learning **kotlin**
 
 - 💬 Ask me about **android**
 
