@@ -7,11 +7,12 @@ Hi, I'm Asmaa Atya Mohammed! 👋
 Hello! I’m Asmaa, a dedicated Android Developer with a knack for building intuitive and efficient mobile applications. With expertise in Java and Kotlin, I bring innovative ideas to life while ensuring high-quality standards in development.
 
 My experience includes:
+- End-to-end Android app development, from concept to release.  
+- Creating seamless, high-performance user experiences.  
+- Collaborating effectively with teams to deliver impactful projects.  
 
-End-to-end Android app development, from concept to release.
-Creating seamless, high-performance user experiences.
-Collaborating effectively with teams to deliver impactful projects.
 I’m driven by a passion for learning, staying ahead in the tech world, and contributing to communities of like-minded developers.
+
 
 ## Skills
 
