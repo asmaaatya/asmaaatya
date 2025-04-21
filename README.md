@@ -17,7 +17,7 @@ My experience includes:
 
 I’m driven by a passion for learning, staying ahead in the tech world, and contributing to communities of like-minded developers.
 
-![snake animation](https://github.com/asmaaatya/asmaaatya/blob/output/github-contribution-grid-snake2.svg)
+![snake animation][(https://github.com/asmaaatya/asmaaatya/actions/workflows/snake.yml)]
 
 ## Skills
 
