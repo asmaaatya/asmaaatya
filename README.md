@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29CF38&width=435&lines=Hey%2C+I'm+Asmaa+Atya+Mohammed+%F0%9F%91%8B;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
+
 ## About Me
 
 Hello! I’m Asmaa, a dedicated Android Developer with a knack for building intuitive and efficient mobile applications. With expertise in Java and Kotlin, I bring innovative ideas to life while ensuring high-quality standards in development.
@@ -11,6 +12,12 @@ My experience includes:
 - Collaborating effectively with teams to deliver impactful projects.  
 
 I’m driven by a passion for learning, staying ahead in the tech world, and contributing to communities of like-minded developers.
+
+
+## My Github Contributions
+
+![snake gif](https://github.com/asmaaatya/asmaaatya/blob/output/github-snake-light.svg)
+
 
 ## Skills
 
