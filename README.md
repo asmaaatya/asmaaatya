@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Asmaa Atya Mohammed  👋];This+is..;..my+Github..;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Asmaa Atya Mohammed  👋];This+is..;..my+Github..;" alt="Typing SVG" />
 </h1>
 </div>
 
@@ -17,6 +17,9 @@ My experience includes:
 
 I’m driven by a passion for learning, staying ahead in the tech world, and contributing to communities of like-minded developers.
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/asmaaatya/asmaaatya/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 ## Skills
 
