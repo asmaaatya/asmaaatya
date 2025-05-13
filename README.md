@@ -35,6 +35,32 @@ Here are some of the skills and technologies I work with:
 - **Frameworks & Libraries:** Android SDK, Firebase, Retrofit, Dagger/Hilt, Room, Glide, Picasso, Jetpack Components (LiveData, ViewModel, Navigation, Data Binding), OkHttp, Gson, RxJava, Kotlin Coroutines, Lottie, and Material Components.
 - **Tools & Platforms:**  Git, Bitbucket , Android Studio, IntelliJ IDEA, JIRA, Postman.
 
+## 📱  Projects I've Worked On
+
+- **MyCash**  
+  A system that allows issuing sales, services and receiving payments that allows managing sales,
+  products and  invoices and payments in integration with payment systems.
+  
+  [🔗 Play Store Link](https://play.google.com/store/apps/details?id=com.codeIn.myCash)
+
+- **Sak**  
+  An application of the Ministry of Justice of Qatar's official application for the Real Estate Registration
+  and Authentication Department's electronic services
+  
+  [🔗 Play Store Link](https://play.google.com/store/apps/details?id=com.informatique_.SAK)
+
+
+ - **TawsiekMisr(ارغب في عمل توكيل)**  
+  An application of the Egyptian Ministry of Justice for the Real Estate Registration and Documentation
+  Authority.
+
+   [🔗 Play Store Link](https://play.google.com/store/apps/details?id=com.informatique.tawsekmisr)
+
+- **Mohtdon**  
+  Mohtdon is islamic app designed to cater to the diverse needs of the Muslim community.
+
+   [🔗 Play Store Link](https://play.google.com/store/apps/details?id=com.mohtdon)
+
 ## Get in Touch
 
 Feel free to connect with me:
@@ -43,32 +69,5 @@ Feel free to connect with me:
 - 💼 LinkedIn: [https://linkedin.com/in/asmaa-atya-8a743b1b3](https://linkedin.com/in/asmaa-atya-8a743b1b3)
 - 🏆 Hackerrank: [https://www.hackerrank.com/asmaa_atya_mohammed](https://www.hackerrank.com/asmaa_atya_mohammed)
 
-## Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a> 
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaaatya&show_icons=true&locale=en&layout=compact" alt="asmaaatya" /></p>
 
