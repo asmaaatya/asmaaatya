@@ -19,6 +19,14 @@ I’m driven by a passion for learning, staying ahead in the tech world, and con
 ![snake gif](https://github.com/asmaaatya/asmaaatya/blob/output/github-snake-light.svg)
 
 
+<!-- Stats -->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=asmaaatya&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaaatya&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaaatya&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
+
+
 ## Skills
 
 Here are some of the skills and technologies I work with:
