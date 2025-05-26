@@ -1,7 +1,16 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29CF38&width=435&lines=Hey%2C+I'm+Asmaa+Atya+Mohammed+%F0%9F%91%8B;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29CF38&width=435&lines=Hey%2C+I'm+Asmaa+Atya+Mohammed+%F0%9F%91%8B;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+  </a>
+</p>
 
-
+ 
+<!-- Profile Views -->
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=asmaaatya&color=4010B0" height="23"/>
+  </p>
+  
 ## About Me
 
 Hello! I’m Asmaa, a dedicated Android Developer with a knack for building intuitive and efficient mobile applications. With expertise in Java and Kotlin, I bring innovative ideas to life while ensuring high-quality standards in development.
