@@ -42,14 +42,21 @@ I enjoy solving complex problems, optimizing app performance, and creating intui
 | **Libraries** | Dagger/Hilt, Retrofit, Coroutines, RxJava, OkHttp, Glide, Lottie |
 | **Architecture** | MVVM, MVI, Clean Architecture, Multi-module |
 | **Tools** | Git, Bitbucket, Android Studio, JIRA, Postman, Firebase, Adjust SDK |
+| **Other** | JetBrains Plugin Development, IntelliJ Platform SDK |
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/JetBrains_Plugin-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
 # 📱 Featured Projects
+
+### Aqim Al-Salat – JetBrains Plugin
+A productivity plugin for JetBrains IDEs that reminds developers of prayer times and helps them maintain spiritual balance while coding.
+
+https://plugins.jetbrains.com/plugin/27964-aqim-alsalat
 
 ### Magrabi Health
 Healthcare mobile application enabling patients to manage appointments, access medical services, and interact with healthcare providers.  
